@@ -10,5 +10,39 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  
+  "FakeUser": [
+      {"MobileNumber":"+917303396981","Name":"Mukteshwar","DseId":"000002",
+       "UserId":"000002","Persona":"DealerSalesManager","Territory":"555","Area":"FES Hubli",
+       "State":"29","Zone":"NE","DealerId":"BHL470829","BranchCode":"B000159","DSM":"No DSM Assigned",
+       "DP":"No DP Assigned","TM":"No TM Assigned","dealerSkid":"619","employeeSkid":"148915"}
+    ],
+	
+ 
+   
+   
+  "SearchNearMe": {
+  "Result": {
+    "MahindraCustomers": [
+      {
+        "CustomerId": "346uiweiuopiu73489203",
+        "FirstName": "Shivam",
+        "LastName": "Panwar",
+        "MobileNumber": "6767676767",
+        "DependantName": "XYSSS",
+        "Village": "Nodia",
+        "Tehsil": "Govindpuri",
+        "State": "Delhi",
+        "ProfilePictureUrl": "https://ajdslkjf.com/ksjdf",
+        "CustomerLocation": "67.89894,83.8383",
+        "IsShree": true
+      }
+    ],
+    "TotalCount": 0
+  },
+  "Success": true,
+  "Message": "string",
+  "ActivityId": "string"
+}
 }
